@@ -1,2 +1,2 @@
-# knight_bot
+# discordjs template
  
